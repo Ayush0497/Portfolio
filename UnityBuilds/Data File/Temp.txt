@@ -1,0 +1,11 @@
+﻿1. Checked for SaveData() Directory Folder in DataManager.cs
+
+
+if ((!Directory.Exists("SaveFile"))
+{
+    Directory.CreateDirectory("SaveFiles");
+}
+
+
+2. SaveScore in Spawner
+Stream stream = File.Open("SaveFiles/Profiles.xml", FileMode.Create);
