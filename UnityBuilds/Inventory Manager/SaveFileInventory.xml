@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<InventoryData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PlayerInventory>
+    <Item xsi:type="WeaponType">
+      <Name>Weapon1</Name>
+      <ID>1</ID>
+      <Damage>10</Damage>
+    </Item>
+    <Item xsi:type="ArmorType">
+      <Name>Armor1</Name>
+      <ID>2</ID>
+      <Defense>50</Defense>
+    </Item>
+    <Item xsi:type="ToolType">
+      <Name>Tool1</Name>
+      <ID>3</ID>
+      <Maxhealth>110</Maxhealth>
+    </Item>
+  </PlayerInventory>
+  <TreasureChest1>
+    <Item xsi:type="WeaponType">
+      <Name>Weapon2</Name>
+      <ID>4</ID>
+      <Damage>50</Damage>
+    </Item>
+    <Item xsi:type="ArmorType">
+      <Name>Armor2</Name>
+      <ID>5</ID>
+      <Defense>150</Defense>
+    </Item>
+    <Item xsi:type="ToolType">
+      <Name>Tool2</Name>
+      <ID>6</ID>
+      <Maxhealth>150</Maxhealth>
+    </Item>
+  </TreasureChest1>
+  <TreasureChest2>
+    <Item xsi:type="WeaponType">
+      <Name>Weapon3</Name>
+      <ID>7</ID>
+      <Damage>20</Damage>
+    </Item>
+    <Item xsi:type="ArmorType">
+      <Name>Armor3</Name>
+      <ID>8</ID>
+      <Defense>75</Defense>
+    </Item>
+    <Item xsi:type="ToolType">
+      <Name>Tool3</Name>
+      <ID>9</ID>
+      <Maxhealth>120</Maxhealth>
+    </Item>
+  </TreasureChest2>
+  <TreasureChest3>
+    <Item xsi:type="WeaponType">
+      <Name>Weapon4</Name>
+      <ID>10</ID>
+      <Damage>30</Damage>
+    </Item>
+    <Item xsi:type="ArmorType">
+      <Name>Armor4</Name>
+      <ID>11</ID>
+      <Defense>100</Defense>
+    </Item>
+    <Item xsi:type="ToolType">
+      <Name>Tool4</Name>
+      <ID>12</ID>
+      <Maxhealth>130</Maxhealth>
+    </Item>
+  </TreasureChest3>
+  <TreasureChest4>
+    <Item xsi:type="WeaponType">
+      <Name>Weapon5</Name>
+      <ID>13</ID>
+      <Damage>40</Damage>
+    </Item>
+    <Item xsi:type="ArmorType">
+      <Name>Armor5</Name>
+      <ID>14</ID>
+      <Defense>125</Defense>
+    </Item>
+    <Item xsi:type="ToolType">
+      <Name>Tool5</Name>
+      <ID>15</ID>
+      <Maxhealth>140</Maxhealth>
+    </Item>
+  </TreasureChest4>
+</InventoryData>

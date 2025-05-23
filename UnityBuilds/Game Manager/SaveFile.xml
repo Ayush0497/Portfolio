@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PlayerInformation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <spawnX>0</spawnX>
+  <spawnY>0</spawnY>
+  <spawnZ>0</spawnZ>
+  <colliderX>0</colliderX>
+  <colliderY>0</colliderY>
+  <colliderZ>0</colliderZ>
+  <currentScene>StartingScene</currentScene>
+  <currentSceneName>StartingScene</currentSceneName>
+  <playerHP>100</playerHP>
+  <Town1MonsterKilled>false</Town1MonsterKilled>
+  <Town2MonsterKilled>false</Town2MonsterKilled>
+  <Town3MonsterKilled>false</Town3MonsterKilled>
+  <Treasure1Collected>false</Treasure1Collected>
+  <Treasure2Collected>false</Treasure2Collected>
+  <Treasure3Collected>false</Treasure3Collected>
+</PlayerInformation>
